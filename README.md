@@ -1,10 +1,13 @@
-# HTML-CSS-for-begginers
+# cob71492488113b162475eea2
 
-This a project for begginers who want to build their skills in HTML and CSS as well as contributing to open source project.
+## About Scrimba
 
-## How to work on this project
- Make sure you create you own branch before working on any issue. Once you are done working with you branch, you can push the changes and we will merge
- them to the main branch
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-## Adding images
-To add any image, make sure to store them in the Assets folder in the project
+- [Our courses](https://scrimba.com/allcourses)
+- [The Frontend Career Path](https://scrimba.com/learn/frontend)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+
+Happy Coding!
